@@ -16,7 +16,7 @@ Ekzekutimi me metoden POST:
 ![postsql](https://user-images.githubusercontent.com/59068563/107798962-ada3d900-6d11-11eb-8000-579c3725167a.png)
 
 Linqet e testuara:
-http://www.marsfigures.com/main.php?id=9
-http://bugs.python.org/issue12524 
-https://www.google.com/ 
-https://www.facebook.com/
+http://www.marsfigures.com/main.php?id=9,
+http://bugs.python.org/issue12524,
+https://www.google.com/, 
+https://www.facebook.com/.
